@@ -7,11 +7,10 @@
 	<AssemblyVersion>24.2.8.0</AssemblyVersion>
 	<Version>24.2.8.0</Version>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<RepositoryUrl>https://github.com/farzadjalalimajd/JMTech.ExpressApp.Blazor.Editors.TypePropertyEditor</RepositoryUrl>
+	<RepositoryUrl>https://github.com/farzadjalalimajd/JMTech.XA.Blazor.TypeEditor</RepositoryUrl>
 	<Title>ExpressApp Blazor TypePropertyEditor</Title>
 	<Authors>Farzad Jalali Majd</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<PackageId>JMTech.XA.Blazor.TypeEditor</PackageId>
   </PropertyGroup>
 
 
